@@ -10,7 +10,7 @@ NULL
 
 ## Description of data sourcing
 
-## NHA9 .hic files and loop files #####
+## NHA9 .hic files, .(m)cool files, and loop files #####
 # Subsampled Hi-C in HEK cells expressing
 # the NHA9 fusion with an F to S mutated IDR ("FS") or
 # without any mutations to the IDR ("Wildtype" or "WT").
