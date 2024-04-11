@@ -69,7 +69,7 @@ metadata <- data.frame(
     ),
     BiocVersion = c(rep("3.17", 2),
                     rep("3.19", 4),
-                    rep("3.17", 10),
+                    rep("3.17", 10)),
     Genome = rep("hg19", 16),
     SourceType = c(
       rep("HIC", 2),
