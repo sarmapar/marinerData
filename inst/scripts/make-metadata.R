@@ -129,7 +129,7 @@ metadata <- data.frame(
     Coordinate_1_based = rep(FALSE, 16),
     DataProvider = rep("Phanstiel Lab", 16),
     Maintainer = rep("Eric S Davis <ericscottdavis@outlook.com>", 16),
-    RDataClass = rep(NA_character_, 16),
+    RDataClass = rep("character", 16),
     DispatchClass = rep("FilePath", 16),
     Location_Prefix = rep("https://zenodo.org/", 16),
     RDataPath = c(
